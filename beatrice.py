@@ -1,6 +1,6 @@
 # girl should find how many nodes ..? (in respect to where she lands)
 # Two nodes are identical if a tree automorphism swaps them.(ignore)
-
+# for me - i sent this to nicole (2025/10/25)
 # Solution - compute subtree hashes.
 
 
